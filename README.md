@@ -65,4 +65,4 @@ This project demonstrates an approach to: Identify escalation pathways, Prioriti
 It is designed as a foundation for: AI safety systems, Trust & Safety workflows, CBRN threat analysis pipelines.
 
 Author:
-Matthew Tripoli, U.S. Navy EODC (Master Explosive Ordnance Disposal Technician), CBRNE / Risk Analysis / Operational Planning
+Matthew Tripoli, U.S. Navy EODC (Master Explosive Ordnance Disposal Technician), CBRNE / Risk Analysis / AI Safety Interest
